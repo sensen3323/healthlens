@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HealthData>
+  <Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" startDate="2026-05-01 08:00:00 +0800" endDate="2026-05-01 09:00:00 +0800" value="4200"/>
+  <Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" startDate="2026-05-02 08:00:00 +0800" endDate="2026-05-02 09:00:00 +0800" value="7300"/>
+  <Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" startDate="2026-05-03 08:00:00 +0800" endDate="2026-05-03 09:00:00 +0800" value="9600"/>
+  <Record type="HKQuantityTypeIdentifierStepCount" sourceName="Apple Watch" unit="count" startDate="2026-05-04 08:00:00 +0800" endDate="2026-05-04 09:00:00 +0800" value="5100"/>
+  <Record type="HKQuantityTypeIdentifierActiveEnergyBurned" unit="kcal" startDate="2026-05-01 08:00:00 +0800" endDate="2026-05-01 21:00:00 +0800" value="310"/>
+  <Record type="HKQuantityTypeIdentifierActiveEnergyBurned" unit="kcal" startDate="2026-05-02 08:00:00 +0800" endDate="2026-05-02 21:00:00 +0800" value="450"/>
+  <Record type="HKQuantityTypeIdentifierActiveEnergyBurned" unit="kcal" startDate="2026-05-03 08:00:00 +0800" endDate="2026-05-03 21:00:00 +0800" value="590"/>
+  <Record type="HKQuantityTypeIdentifierHeartRate" unit="count/min" startDate="2026-05-01 09:00:00 +0800" endDate="2026-05-01 09:01:00 +0800" value="78"/>
+  <Record type="HKQuantityTypeIdentifierHeartRate" unit="count/min" startDate="2026-05-02 09:00:00 +0800" endDate="2026-05-02 09:01:00 +0800" value="82"/>
+  <Record type="HKQuantityTypeIdentifierHeartRate" unit="count/min" startDate="2026-05-03 09:00:00 +0800" endDate="2026-05-03 09:01:00 +0800" value="88"/>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" startDate="2026-05-01 23:20:00 +0800" endDate="2026-05-02 07:10:00 +0800" value="HKCategoryValueSleepAnalysisAsleepCore"/>
+  <Record type="HKCategoryTypeIdentifierSleepAnalysis" startDate="2026-05-02 23:45:00 +0800" endDate="2026-05-03 06:50:00 +0800" value="HKCategoryValueSleepAnalysisAsleepCore"/>
+  <Workout workoutActivityType="HKWorkoutActivityTypeRunning" duration="35" durationUnit="min" totalDistance="5.2" totalDistanceUnit="km" totalEnergyBurned="360" totalEnergyBurnedUnit="kcal" startDate="2026-05-03 07:00:00 +0800" endDate="2026-05-03 07:35:00 +0800"/>
+</HealthData>
